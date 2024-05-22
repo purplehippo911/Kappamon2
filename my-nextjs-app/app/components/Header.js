@@ -15,7 +15,7 @@ export default function Header() {
                         </li>
                         <li>
                             <a href="text-sm font-thin">
-                                Kappadex
+                                Cards
                             </a>
                         </li>
                         <li>
@@ -26,14 +26,14 @@ export default function Header() {
                     </ul>
                 </nav>
 
-                <section className="flex flex-col items-center">
+                <section className="flex flex-col items-center justify-center">
                     <h1 className="text-[10rem] font-bold">Yokard</h1>
                     
-                    <picture className="grid w-1/2 bg-white rounded-full mb-5">
+                    <picture className="grid w-full h-full mb-5 justify-center">
                         <img
-                            src='/kawaii_kappa.png'
+                            src='/icons/Kappa pixel logo.png'
                             alt='A kawaii kappa yokai as our mascot'
-                            className=""
+                            className="h-[15rem]"
                         />
                         
                         {/* <img
