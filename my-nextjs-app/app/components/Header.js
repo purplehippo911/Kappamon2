@@ -9,17 +9,17 @@ export default function Header() {
                     
                     <ul className="flex ml-[auto] gap-10">
                         <li>
-                            <a href="text-sm font-thin">
+                            <a href="#" className="text-sm font-thin">
                                 Home
                             </a>
                         </li>
                         <li>
-                            <a href="text-sm font-thin">
+                            <a href="#" className="text-sm font-thin">
                                 Cards
                             </a>
                         </li>
                         <li>
-                            <a href="text-sm font-thin">
+                            <a href="#" className="text-sm font-thin">
                                 Blog
                             </a>
                         </li>

@@ -10,9 +10,8 @@ export default function Footer() {
                 <picture className="flex items-center align-center w-1/2 ml-auto">
                     <a 
                         href="https://instagram.com" 
-
                         className="hover:scale-[1.1]"
-                       >
+                    >
                         <img
                             src="/icons/Instagram icon.png"
                             alt="insta icon"
@@ -42,7 +41,7 @@ export default function Footer() {
                     </a>
 
                 </picture>
-            </div>
+            </div>  
         </footer>
     )
 }
